@@ -1,4 +1,4 @@
-# Get Papers List
+# PharmaPubMedScanner
 
 A command-line tool to fetch research papers from PubMed based on a user-specified query. The program identifies and returns papers with at least one author affiliated with a pharmaceutical or biotech company.
 
