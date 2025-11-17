@@ -70,4 +70,3 @@ poetry run get-papers-list "ozempic clinical trial"
 *   **[Requests](https://requests.readthedocs.io/en/latest/)**: For making HTTP requests to the PubMed API.
 *   **[Typer](https://typer.tiangolo.com/)**: For creating a clean and modern command-line interface.
 *   **[Rich](https://rich.readthedocs.io/en/latest/)**: Used by Typer to provide beautiful formatting in the terminal (colors, progress spinners, etc.).
-*   **Development Assistance**: This program structure, code, and documentation were generated with the assistance of Google's Gemini.
